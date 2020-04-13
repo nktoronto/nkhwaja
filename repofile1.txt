@@ -1,6 +1,6 @@
 line1: file1 created in repo/nkhwaja
 line2: change1
-line3:
+line3: changes done by a teammate to repofile1.txt and pushed to github
 line4:
 
 
